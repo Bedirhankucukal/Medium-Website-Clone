@@ -1,0 +1,24 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+.border-bottom-radius-dark{
+    border-bottom: 1px solid rgba(0,0,0,0.8);
+}
+
+.buttoncolor{
+    background-color: rgba(25, 25, 25, 1);
+}
+.aside-buttons > li {
+    margin-bottom: 10px;
+
+
+}   
+
+.asidebuttons{
+    border: 0px solid; border-radius: 20px; 
+    background-color:#F2F2F2;
+}
