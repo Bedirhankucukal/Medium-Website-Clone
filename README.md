@@ -1,8 +1,8 @@
 # Medium-Website-Clone
 
 ## Amaç-İçerik
->Buradaki amaç aktif olara kullanılan ve büyük bir site olan medium.com sitesinin bir klonunun yapılması
->yapılırken boostrapin ayrıntıları öğrenilmiş ve işlenmiştir
+>Buradaki amaç aktif olarak kullanılan ve büyük bir site olan medium.com sitesinin bir klonunun yapılması
+>yapılırken boostrap`in ayrıntıları öğrenilmiş ve işlenmiştir
 >özelleştirilmiş medium.css isimli bir adet css dosyasıda bulunmaktadır
 >
 ## Ön İzleme İçin Fotoğraflar
