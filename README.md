@@ -9,5 +9,6 @@
 >Medium klon site fotoğraf 1
 >![Klon Fotoğraf 1](https://github.com/Bedirhankucukal/Medium-Website-Clone/blob/main/img/clonesite.PNG)
 >
->>![Klon Fotoğraf 1](https://github.com/Bedirhankucukal/Medium-Website-Clone/blob/main/img/clonesite.PNG)
+>Medium klon site fotoğraf 2
+>>![Klon Fotoğraf 2](https://github.com/Bedirhankucukal/Medium-Website-Clone/blob/main/img/clonesite2.PNG)
 
